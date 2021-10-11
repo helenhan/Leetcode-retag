@@ -49,9 +49,9 @@
 ###### 简单：
 
 - [206. 反转链表](https://leetcode.com/problems/reverse-linked-list/).  - [x]
-- [141. 环形链表](https://leetcode.com/problems/linked-list-cycle/) - [x] 
-- [83. 删除排序链表中的重复元素](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [x] 
-- [234. 回文链表](https://leetcode.com/problems/palindrome-linked-list/) - [x]  
+- [141. 环形链表](https://leetcode.com/problems/linked-list-cycle/) - [x]
+- [83. 删除排序链表中的重复元素](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [x]
+- [234. 回文链表](https://leetcode.com/problems/palindrome-linked-list/) - [x]
 - [203. 移除链表元素](https://leetcode.com/problems/remove-linked-list-elements/) - [x]  
 - [237. 删除链表中的节点](https://leetcode.com/problems/delete-node-in-a-linked-list/) - [x] 
 - [876. 链表的中间结点](https://leetcode.com/problems/middle-of-the-linked-list/)- [x] 
