@@ -76,7 +76,7 @@
 - [ ] [725. 分隔链表](https://leetcode.com/problems/split-linked-list-in-parts/)
 
 ###### 困难
-- [ ] [25. K 个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [x] [25. K 个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/) ❤️
 
 #### 双链表：
 
