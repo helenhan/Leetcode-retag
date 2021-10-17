@@ -82,18 +82,18 @@
 
 ###### 简单：
 
-- [ ] [21. 合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [160. 相交链表](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] [21. 合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [160. 相交链表](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ###### 中级
 
-- [ ] [2. 两数相加](https://leetcode.com/problems/add-two-numbers/)
-- [ ] [445. 两数相加 II](https://leetcode.com/problems/add-two-numbers-ii/)
-- [ ] [1669. 合并两个链表](https://leetcode.com/problems/merge-in-between-linked-lists/)
+- [x] [2. 两数相加](https://leetcode.com/problems/add-two-numbers/)
+- [x] [445. 两数相加 II](https://leetcode.com/problems/add-two-numbers-ii/)
+- [x] [1669. 合并两个链表](https://leetcode.com/problems/merge-in-between-linked-lists/)
 
 ###### 困难
 
-- [ ] [23. 合并 K 个升序链表](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [23. 合并 K 个升序链表](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## 𐀴 树
 
