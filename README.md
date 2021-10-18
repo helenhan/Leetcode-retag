@@ -101,11 +101,11 @@
 
 ###### 简单
 
-- [ ] [145. 二叉树的后序遍历](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [ ] [94. 二叉树的中序遍历](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [ ] [589. N 叉树的前序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
-- [ ] [144. 二叉树的前序遍历](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [ ] [590. N 叉树的后序遍历](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+- [x] [145. 二叉树的后序遍历](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [x] [94. 二叉树的中序遍历](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [x] [589. N 叉树的前序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+- [x] [144. 二叉树的前序遍历](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [x] [590. N 叉树的后序遍历](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
 ###### 中等
 
