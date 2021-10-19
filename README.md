@@ -109,14 +109,14 @@
 
 ###### 中等
 
-- [ ] [102. 二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [102. 二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [103. 二叉树的锯齿形层序遍历](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-- [ ] [107. 二叉树的层序遍历 II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- [x] [107. 二叉树的层序遍历 II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
 #### 构造
 
 ###### 简单
-- [ ] [108. 将有序数组转换为二叉搜索树](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [x] [108. 将有序数组转换为二叉搜索树](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ###### 中等
 - [ ] [105. 从前序与中序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
