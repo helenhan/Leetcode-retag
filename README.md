@@ -165,7 +165,7 @@
 
 ###### 简单
 
-- [ ] [108. 将有序数组转换为二叉搜索树](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [x] [108. 将有序数组转换为二叉搜索树](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ###### 中等
 
@@ -178,12 +178,10 @@
 
 #### 字典树
 
-###### 简单
-
-- [ ] [720. 词典中最长的单词](https://leetcode.com/problems/longest-word-in-dictionary/)
 
 ###### 中等
 
+- [ ] [720. 词典中最长的单词](https://leetcode.com/problems/longest-word-in-dictionary/)
 - [ ] [208. 实现 Trie (前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [692. 前 K 个高频单词](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [421. 数组中两个数的最大异或值](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
@@ -217,12 +215,12 @@
 
 ###### 简单
 
-- [ ] [20. 有效的括号](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [1047. 删除字符串中的所有相邻重复项](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
-- [ ] [232. 用栈实现队列](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [155. 最小栈](https://leetcode.com/problems/min-stack/)
-- [ ] [225. 用队列实现栈](https://leetcode.com/problems/implement-stack-using-queues/)
-- [ ] [1021. 删除最外层的括号](https://leetcode.com/problems/remove-outermost-parentheses/)
+- [x] [20. 有效的括号](https://leetcode.com/problems/valid-parentheses/)
+- [x] [1047. 删除字符串中的所有相邻重复项](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [x] [232. 用栈实现队列](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [155. 最小栈](https://leetcode.com/problems/min-stack/)
+- [x] [225. 用队列实现栈](https://leetcode.com/problems/implement-stack-using-queues/)
+- [x] [1021. 删除最外层的括号](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [ ] [682. 棒球比赛](https://leetcode.com/problems/baseball-game/)
 - [ ] [844. 比较含退格的字符串](https://leetcode.com/problems/backspace-string-compare/)
 
