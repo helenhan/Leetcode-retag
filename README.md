@@ -221,8 +221,8 @@
 - [x] [155. 最小栈](https://leetcode.com/problems/min-stack/)
 - [x] [225. 用队列实现栈](https://leetcode.com/problems/implement-stack-using-queues/)
 - [x] [1021. 删除最外层的括号](https://leetcode.com/problems/remove-outermost-parentheses/)
-- [ ] [682. 棒球比赛](https://leetcode.com/problems/baseball-game/)
-- [ ] [844. 比较含退格的字符串](https://leetcode.com/problems/backspace-string-compare/)
+- [x] [682. 棒球比赛](https://leetcode.com/problems/baseball-game/)
+- [x] [844. 比较含退格的字符串](https://leetcode.com/problems/backspace-string-compare/)
 
 ###### 中等
 
@@ -250,7 +250,7 @@
 
 ###### 简单
 
-- [ ] [496. 下一个更大元素 I](https://leetcode.com/problems/next-greater-element-i/)
+- [x] [496. 下一个更大元素 I](https://leetcode.com/problems/next-greater-element-i/)
 
 ###### 中等
 
