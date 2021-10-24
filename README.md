@@ -273,8 +273,8 @@
 
 ###### 简单
 
-- [ ] [1046. 最后一块石头的重量](https://leetcode.com/problems/last-stone-weight/)
-- [ ] [703. 数据流中的第 K 大元素](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [x] [1046. 最后一块石头的重量](https://leetcode.com/problems/last-stone-weight/)
+- [x] [703. 数据流中的第 K 大元素](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
 ###### 中等
 
