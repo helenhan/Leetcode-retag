@@ -300,10 +300,10 @@
 
 - [x] [69. x 的平方根](https://leetcode.com/problems/sqrtx/)
 - [x] [704. 二分查找](https://leetcode.com/problems/binary-search/)
-- [ ] [35. 搜索插入位置](https://leetcode.com/problems/search-insert-position/)
-- [ ] [349. 两个数组的交集](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [ ] [167. 两数之和 II - 输入有序数组](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [ ] [278. 第一个错误的版本](https://leetcode.com/problems/first-bad-version/)
+- [x] [35. 搜索插入位置](https://leetcode.com/problems/search-insert-position/)
+- [x] [349. 两个数组的交集](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [x] [167. 两数之和 II - 输入有序数组](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [x] [278. 第一个错误的版本](https://leetcode.com/problems/first-bad-version/)
 
 ###### 中等
 
