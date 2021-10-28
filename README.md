@@ -298,8 +298,8 @@
 
 ###### 简单
 
-- [ ] [69. x 的平方根](https://leetcode.com/problems/sqrtx/)
-- [ ] [704. 二分查找](https://leetcode.com/problems/binary-search/)
+- [x] [69. x 的平方根](https://leetcode.com/problems/sqrtx/)
+- [x] [704. 二分查找](https://leetcode.com/problems/binary-search/)
 - [ ] [35. 搜索插入位置](https://leetcode.com/problems/search-insert-position/)
 - [ ] [349. 两个数组的交集](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [167. 两数之和 II - 输入有序数组](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
