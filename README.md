@@ -395,8 +395,8 @@
 
 ###### 简单
 
-- [ ] [867. 转置矩阵](https://leetcode.com/problems/transpose-matrix/)
-- [ ] [832. 翻转图像](https://leetcode.com/problems/flipping-an-image/)
+- [x] [867. 转置矩阵](https://leetcode.com/problems/transpose-matrix/)
+- [x] [832. 翻转图像](https://leetcode.com/problems/flipping-an-image/)
 
 ###### 中等
 
