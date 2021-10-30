@@ -335,15 +335,15 @@
 
 ###### 简单
 
-- [ ] [136. 只出现一次的数字](https://leetcode.com/problems/single-number/)
-- [ ] [191. 位1的个数](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [169. 多数元素](https://leetcode.com/problems/majority-element/)
-- [ ] [190. 颠倒二进制位](https://leetcode.com/problems/reverse-bits/)
-- [ ] [231. 2的幂](https://leetcode.com/problems/power-of-two/)
-- [ ] [389. 找不同](https://leetcode.com/problems/find-the-difference/)
-- [ ] [461. 汉明距离](https://leetcode.com/problems/hamming-distance/)
-- [ ] [405. 数字转换为十六进制数](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
-- [ ] [268. 丢失的数字](https://leetcode.com/problems/missing-number/)
+- [x] [136. 只出现一次的数字](https://leetcode.com/problems/single-number/)
+- [x] [191. 位1的个数](https://leetcode.com/problems/number-of-1-bits/)
+- [x] [169. 多数元素](https://leetcode.com/problems/majority-element/)
+- [x] [190. 颠倒二进制位](https://leetcode.com/problems/reverse-bits/)
+- [x] [231. 2的幂](https://leetcode.com/problems/power-of-two/)
+- [x] [389. 找不同](https://leetcode.com/problems/find-the-difference/)
+- [x] [461. 汉明距离](https://leetcode.com/problems/hamming-distance/)
+- [x] [405. 数字转换为十六进制数](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
+- [x] [268. 丢失的数字](https://leetcode.com/problems/missing-number/)
 
 ###### 中等
 
