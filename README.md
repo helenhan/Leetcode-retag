@@ -362,18 +362,17 @@
 
 - [x] [387. 字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [x] [349. 两个数组的交集](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [ ] [409. 最长回文串](https://leetcode.com/problems/longest-palindrome/)
-- [ ] [217. 存在重复元素](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [204. 计数质数](https://leetcode.com/problems/count-primes/)
-- [ ] [88. 合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] [283. 移动零](https://leetcode.com/problems/move-zeroes/)
-- [ ] [125. 验证回文串](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [344. 反转字符串](https://leetcode.com/problems/reverse-string/)
-- [ ] [27. 移除元素](https://leetcode.com/problems/remove-element/)
-- [ ] [977. 有序数组的平方](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] [409. 最长回文串](https://leetcode.com/problems/longest-palindrome/)
+- [x] [217. 存在重复元素](https://leetcode.com/problems/contains-duplicate/)
+- [x] [88. 合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [283. 移动零](https://leetcode.com/problems/move-zeroes/)
+- [x] [125. 验证回文串](https://leetcode.com/problems/valid-palindrome/)
+- [x] [344. 反转字符串](https://leetcode.com/problems/reverse-string/)
+- [x] [27. 移除元素](https://leetcode.com/problems/remove-element/)
+- [x] [977. 有序数组的平方](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ###### 中等
-
+- [ ] [204. 计数质数](https://leetcode.com/problems/count-primes/)
 - [ ] [3. 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [781. 森林中的兔子](https://leetcode.com/problems/rabbits-in-forest/)
 - [ ] [49. 字母异位词分组](https://leetcode.com/problems/group-anagrams/)
