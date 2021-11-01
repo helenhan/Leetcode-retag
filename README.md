@@ -410,9 +410,9 @@
 
 ###### 简单
 
-- [ ] [70. 爬楼梯](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [53. 最大子序和](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [121. 买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [70. 爬楼梯](https://leetcode.com/problems/climbing-stairs/)
+- [x] [53. 最大子序和](https://leetcode.com/problems/maximum-subarray/)
+- [x] [121. 买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [746. 使用最小花费爬楼梯](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 ###### 中等
