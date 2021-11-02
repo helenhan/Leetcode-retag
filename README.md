@@ -413,7 +413,7 @@
 - [x] [70. 爬楼梯](https://leetcode.com/problems/climbing-stairs/)
 - [x] [53. 最大子序和](https://leetcode.com/problems/maximum-subarray/)
 - [x] [121. 买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [746. 使用最小花费爬楼梯](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [x] [746. 使用最小花费爬楼梯](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 ###### 中等
 
@@ -480,7 +480,7 @@
 
 ###### 简单
 
-- [ ] [690. 员工的重要性](https://leetcode.com/problems/employee-importance/)
+- [x] [690. 员工的重要性](https://leetcode.com/problems/employee-importance/)
 
 ###### 中等
 
@@ -607,14 +607,14 @@
 
 ##### 简单
 
-- [ ] [204. 计数质数](https://leetcode.com/problems/count-primes/)
-- [ ] [628. 三个数的最大乘积](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [ ] [976. 三角形的最大周长](https://leetcode.com/problems/largest-perimeter-triangle/)
-- [ ] [202. 快乐数](https://leetcode.com/problems/happy-number/)
-- [ ] [1232. 缀点成线](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+
+- [x] [628. 三个数的最大乘积](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- [x] [976. 三角形的最大周长](https://leetcode.com/problems/largest-perimeter-triangle/)
+- [x] [202. 快乐数](https://leetcode.com/problems/happy-number/)
+- [x] [1232. 缀点成线](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 
 ###### 中等
-
+- [ ] [204. 计数质数](https://leetcode.com/problems/count-primes/)
 - [ ] [29. 两数相除](https://leetcode.com/problems/divide-two-integers/)
 - [ ] [343. 整数拆分](https://leetcode.com/problems/integer-break/)
 - [ ] [166. 分数到小数](https://leetcode.com/problems/fraction-to-recurring-decimal/)
@@ -628,7 +628,7 @@
 
 ###### 简单
 
-- [ ] [292. Nim 游戏](https://leetcode.com/problems/nim-game/)
+- [x] [292. Nim 游戏](https://leetcode.com/problems/nim-game/)
 
 ###### 中等
 
@@ -641,9 +641,8 @@
 
 ###### 简单
 
-- [ ] [1232. 缀点成线](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
-- [ ] [1266. 访问所有点的最小时间](https://leetcode.com/problems/minimum-time-visiting-all-points/)
-- [ ] [892. 三维形体的表面积](https://leetcode.com/problems/surface-area-of-3d-shapes/)
+- [x] [1266. 访问所有点的最小时间](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+- [x] [892. 三维形体的表面积](https://leetcode.com/problems/surface-area-of-3d-shapes/)
 
 ###### 中等
 
