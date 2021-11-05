@@ -58,7 +58,7 @@
 
 ###### 中等
 
-- [ ] [92. 反转链表 II](https://leetcode.com/problems/reverse-linked-list-ii/)
+- [x] [92. 反转链表 II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [x] [143. 重排链表](https://leetcode.com/problems/reorder-list/)
 - [x] [82. 删除排序链表中的重复元素 II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [x] [19. 删除链表的倒数第 N 个结点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -66,14 +66,14 @@
 - [x] [86. 分隔链表](https://leetcode.com/problems/partition-list/)
 - [x] [61. 旋转链表](https://leetcode.com/problems/rotate-list/)
 - [x] [142. 环形链表 II](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [ ] [147. 对链表进行插入排序](https://leetcode.com/problems/insertion-sort-list/)
+- [x] [147. 对链表进行插入排序](https://leetcode.com/problems/insertion-sort-list/)
 - [x] [138. 复制带随机指针的链表](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - [x] [24. 两两交换链表中的节点](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [x] [328. 奇偶链表](https://leetcode.com/problems/odd-even-linked-list/)
 - [x] [707. 设计链表](https://leetcode.com/problems/design-linked-list/)
 - [x] [109. 有序链表转换二叉搜索树](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 - [ ] [430. 扁平化多级双向链表](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
-- [ ] [725. 分隔链表](https://leetcode.com/problems/split-linked-list-in-parts/)
+- [x] [725. 分隔链表](https://leetcode.com/problems/split-linked-list-in-parts/)
 
 ###### 困难
 - [x] [25. K 个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/) ❤️
