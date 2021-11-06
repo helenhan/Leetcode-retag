@@ -110,7 +110,7 @@
 ###### 中等
 
 - [x] [102. 二叉树的层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [103. 二叉树的锯齿形层序遍历](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [x] [103. 二叉树的锯齿形层序遍历](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [x] [107. 二叉树的层序遍历 II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
 #### 构造
