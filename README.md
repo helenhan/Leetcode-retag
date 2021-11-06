@@ -72,7 +72,7 @@
 - [x] [328. 奇偶链表](https://leetcode.com/problems/odd-even-linked-list/)
 - [x] [707. 设计链表](https://leetcode.com/problems/design-linked-list/)
 - [x] [109. 有序链表转换二叉搜索树](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
-- [ ] [430. 扁平化多级双向链表](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+- [x] [430. 扁平化多级双向链表](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 - [x] [725. 分隔链表](https://leetcode.com/problems/split-linked-list-in-parts/)
 
 ###### 困难
