@@ -145,21 +145,20 @@
 
 ###### 中等
 
-- [ ] [236. 二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [x] [236. 二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ***
 - [x] [222. 完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/)
 - [x] [113. 路径总和 II](https://leetcode.com/problems/path-sum-ii/)
 - [x] [437. 路径总和 III](https://leetcode.com/problems/path-sum-iii/)
 - [x] [129. 求根节点到叶节点数字之和](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [x] [662. 二叉树最大宽度](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 - [x] [114. 二叉树展开为链表](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-- [ ] [199. 二叉树的右视图](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [ ] [116. 填充每个节点的下一个右侧节点指针](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-- [ ] [515. 在每个树行中找最大值](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+- [x] [199. 二叉树的右视图](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [x] [116. 填充每个节点的下一个右侧节点指针](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [x] [515. 在每个树行中找最大值](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 
 ###### 困难
 
-- [ ] [124. 二叉树中的最大路径和](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- [ ] [297. 二叉树的序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [x] [124. 二叉树中的最大路径和](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 #### 二叉搜索树
 
