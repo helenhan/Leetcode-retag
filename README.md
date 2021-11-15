@@ -146,12 +146,12 @@
 ###### 中等
 
 - [ ] [236. 二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [ ] [222. 完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/)
-- [ ] [113. 路径总和 II](https://leetcode.com/problems/path-sum-ii/)
-- [ ] [437. 路径总和 III](https://leetcode.com/problems/path-sum-iii/)
-- [ ] [129. 求根节点到叶节点数字之和](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-- [ ] [662. 二叉树最大宽度](https://leetcode.com/problems/maximum-width-of-binary-tree/)
-- [ ] [114. 二叉树展开为链表](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+- [x] [222. 完全二叉树的节点个数](https://leetcode.com/problems/count-complete-tree-nodes/)
+- [x] [113. 路径总和 II](https://leetcode.com/problems/path-sum-ii/)
+- [x] [437. 路径总和 III](https://leetcode.com/problems/path-sum-iii/)
+- [x] [129. 求根节点到叶节点数字之和](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [x] [662. 二叉树最大宽度](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+- [x] [114. 二叉树展开为链表](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 - [ ] [199. 二叉树的右视图](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [ ] [116. 填充每个节点的下一个右侧节点指针](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [ ] [515. 在每个树行中找最大值](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
