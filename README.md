@@ -182,8 +182,8 @@
 
 - [x] [720. 词典中最长的单词](https://leetcode.com/problems/longest-word-in-dictionary/)
 - [x] [208. 实现 Trie (前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [ ] [692. 前 K 个高频单词](https://leetcode.com/problems/top-k-frequent-words/)
-- [ ] [421. 数组中两个数的最大异或值](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
+- [x] [692. 前 K 个高频单词](https://leetcode.com/problems/top-k-frequent-words/)
+- [x] [421. 数组中两个数的最大异或值](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 
 ###### 困难
 
