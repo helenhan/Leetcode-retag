@@ -235,9 +235,9 @@
 - [x] [856. 括号的分数](https://leetcode.com/problems/score-of-parentheses/)
 - [ ] [907. 子数组的最小值之和](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [ ] [385. 迷你语法分析器](https://leetcode.com/problems/mini-parser/)
-- [ ] [1249. 移除无效的括号](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-- [ ] [636. 函数的独占时间](https://leetcode.com/problems/exclusive-time-of-functions/)
-- [ ] [341. 扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- [x] [1249. 移除无效的括号](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [636. 函数的独占时间](https://leetcode.com/problems/exclusive-time-of-functions/)
+- [x] [341. 扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 ###### 困难
 
