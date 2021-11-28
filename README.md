@@ -225,14 +225,14 @@
 
 ###### 中等
 
-- [ ] [1190. 反转每对括号间的子串](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
-- [ ] [394. 字符串解码](https://leetcode.com/problems/decode-string/)
-- [ ] [456. 132 模式](https://leetcode.com/problems/132-pattern/)
-- [ ] [227. 基本计算器 II](https://leetcode.com/problems/basic-calculator-ii/)
-- [ ] [150. 逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-- [ ] [503. 下一个更大元素 II](https://leetcode.com/problems/next-greater-element-ii/)
-- [ ] [71. 简化路径](https://leetcode.com/problems/simplify-path/)
-- [ ] [856. 括号的分数](https://leetcode.com/problems/score-of-parentheses/)
+- [x] [1190. 反转每对括号间的子串](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+- [x] [394. 字符串解码](https://leetcode.com/problems/decode-string/)
+- [x] [456. 132 模式](https://leetcode.com/problems/132-pattern/)
+- [x] [227. 基本计算器 II](https://leetcode.com/problems/basic-calculator-ii/)
+- [x] [150. 逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [x] [503. 下一个更大元素 II](https://leetcode.com/problems/next-greater-element-ii/)
+- [x] [71. 简化路径](https://leetcode.com/problems/simplify-path/)
+- [x] [856. 括号的分数](https://leetcode.com/problems/score-of-parentheses/)
 - [ ] [907. 子数组的最小值之和](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [ ] [385. 迷你语法分析器](https://leetcode.com/problems/mini-parser/)
 - [ ] [1249. 移除无效的括号](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
@@ -241,7 +241,7 @@
 
 ###### 困难
 
-- [ ] [224. 基本计算器](https://leetcode.com/problems/basic-calculator/)
+- [x] [224. 基本计算器](https://leetcode.com/problems/basic-calculator/)
 - [ ] [726. 原子的数量](https://leetcode.com/problems/number-of-atoms/)
 
 
