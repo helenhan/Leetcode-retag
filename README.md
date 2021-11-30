@@ -253,7 +253,7 @@
 
 ###### 中等
 
-- [ ] [739. 每日温度](https://leetcode.com/problems/daily-temperatures/)
+- [x] [739. 每日温度](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [402. 移掉 K 位数字](https://leetcode.com/problems/remove-k-digits/)
 - [ ] [316. 去除重复字母](https://leetcode.com/problems/remove-duplicate-letters/)
 - [ ] [1124. 表现良好的最长时间段](https://leetcode.com/problems/longest-well-performing-interval/)
