@@ -277,11 +277,11 @@
 
 ###### 中等
 
-- [ ] [215. 数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [ ] [347. 前 K 个高频元素](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [692. 前K个高频单词](https://leetcode.com/problems/top-k-frequent-words/)
+- [x] [215. 数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] [347. 前 K 个高频元素](https://leetcode.com/problems/top-k-frequent-elements/) -- priority queue
+- [x] [692. 前K个高频单词](https://leetcode.com/problems/top-k-frequent-words/)  -- priority queue
 - [ ] [378. 有序矩阵中第 K 小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [ ] [451. 根据字符出现频率排序](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [x] [451. 根据字符出现频率排序](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] [743. 网络延迟时间](https://leetcode.com/problems/network-delay-time/)
 - [ ] [787. K 站中转内最便宜的航班](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 - [ ] [973. 最接近原点的 K 个点](https://leetcode.com/problems/k-closest-points-to-origin/)
