@@ -306,7 +306,7 @@
 
 ###### 中等
 
-- [ ] [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [x] [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [74. 搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [81. 搜索旋转排序数组 II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
@@ -418,7 +418,7 @@
 
 - [ ] [337. 打家劫舍 III](https://leetcode.com/problems/house-robber-iii/)
 - [ ] [322. 零钱兑换](https://leetcode.com/problems/coin-change/)
-- [ ] [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [x] [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [139. 单词拆分](https://leetcode.com/problems/word-break/)
 - [ ] [152. 乘积最大子数组](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [338. 比特位计数](https://leetcode.com/problems/counting-bits/)
