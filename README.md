@@ -307,10 +307,10 @@
 ###### 中等
 
 - [x] [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [74. 搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/)
-- [ ] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [ ] [81. 搜索旋转排序数组 II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [ ] [33. 搜索旋转排序数组](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [74. 搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] [81. 搜索旋转排序数组 II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [x] [33. 搜索旋转排序数组](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [454. 四数相加 II](https://leetcode.com/problems/4sum-ii/)
 - [ ] [240. 搜索二维矩阵 II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [ ] [718. 最长重复子数组](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
