@@ -319,7 +319,7 @@
 - [x] [287. 寻找重复数](https://leetcode.com/problems/find-the-duplicate-number/)
 - [x] [209. 长度最小的子数组](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [x] [153. 寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ] [162. 寻找峰值](https://leetcode.com/problems/find-peak-element/)
+- [x] [162. 寻找峰值](https://leetcode.com/problems/find-peak-element/)
 - [x] [378. 有序矩阵中第 K 小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [x] [230. 二叉搜索树中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
