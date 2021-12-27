@@ -346,7 +346,7 @@
 
 ###### 中等
 
-- [ ] [78. 子集](https://leetcode.com/problems/subsets/)
+- [x] [78. 子集](https://leetcode.com/problems/subsets/)
 - [ ] [338. 比特位计数](https://leetcode.com/problems/counting-bits/)
 - [ ] [1318. 或运算的最小翻转次数](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 - [ ] [89. 格雷编码](https://leetcode.com/problems/gray-code/)
@@ -371,8 +371,8 @@
 - [x] [977. 有序数组的平方](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ###### 中等
-- [ ] [204. 计数质数](https://leetcode.com/problems/count-primes/)
-- [ ] [3. 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [204. 计数质数](https://leetcode.com/problems/count-primes/)
+- [x] [3. 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [781. 森林中的兔子](https://leetcode.com/problems/rabbits-in-forest/)
 - [ ] [49. 字母异位词分组](https://leetcode.com/problems/group-anagrams/)
 - [ ] [18. 四数之和](https://leetcode.com/problems/4sum/)
