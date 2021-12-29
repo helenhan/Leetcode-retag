@@ -380,12 +380,12 @@
 - [x] [454. 四数相加 II](https://leetcode.com/problems/4sum-ii/)
 - [x] [11. 盛最多水的容器](https://leetcode.com/problems/container-with-most-water/)
 - [x] [16. 最接近的三数之和](https://leetcode.com/problems/3sum-closest/)
-- [ ] [424. 替换后的最长重复字符](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [713. 乘积小于K的子数组](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [x] [424. 替换后的最长重复字符](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] [713. 乘积小于K的子数组](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 ###### 困难
 
-- [ ] [76. 最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/)
+- [x] [76. 最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [992. K 个不同整数的子数组](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 
 ## 𐀴 矩阵
