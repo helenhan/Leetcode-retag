@@ -397,7 +397,7 @@
 
 ###### 中等
 
-- [ ] [54. 螺旋矩阵](https://leetcode.com/problems/spiral-matrix/)
+- [x] [54. 螺旋矩阵](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [59. 螺旋矩阵 II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [ ] [73. 矩阵置零](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [48. 旋转图像](https://leetcode.com/problems/rotate-image/)
@@ -467,7 +467,7 @@
 - [ ] [695. 岛屿的最大面积](https://leetcode.com/problems/max-area-of-island/)
 - [ ] [130. 被围绕的区域](https://leetcode.com/problems/surrounded-regions/)
 - [ ] [1631. 最小体力消耗路径](https://leetcode.com/problems/path-with-minimum-effort/) 
-- [ ] [207. 课程表](https://leetcode.com/problems/course-schedule/)
+- [x] [207. 课程表](https://leetcode.com/problems/course-schedule/)
 - [ ] [417. 太平洋大西洋水流问题](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 
 ###### 困难
@@ -598,7 +598,7 @@
 
 ###### 中等
 
-- [ ] [133. 克隆图](https://leetcode.com/problems/clone-graph/)
+- [X] [133. 克隆图](https://leetcode.com/problems/clone-graph/)
 - [ ] [138. 复制带随机指针的链表](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 ## 𐀴 数学
